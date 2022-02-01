@@ -1,0 +1,1 @@
+@extends('PracticaIrving.template.Layout')
